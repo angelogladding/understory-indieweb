@@ -1,2 +1,2 @@
 # understory-indieweb
-A simple personal website.
+A simple personal website using understory.
